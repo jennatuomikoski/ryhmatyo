@@ -1,3 +1,12 @@
 body {
   background: #000000;
 }
+main{
+  font-family: 'Alumni Sans Pinstripe', sans-serif;
+  font-family: 'Courgette', cursive;
+  font-family: 'Oooh Baby', cursive;
+color: white;
+}
+.left{
+  float: left;
+}
